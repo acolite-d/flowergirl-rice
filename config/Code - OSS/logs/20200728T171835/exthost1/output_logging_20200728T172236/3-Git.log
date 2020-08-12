@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jad/projects/material-sense
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jad/projects/material-sense/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jad/projects/material-sense/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/index.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/index.js
+> git cat-file -s 0c5e75da1cd0651f3c34f0d51aaa6abac634f4f2
+> git show :src/App.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/App.js
+> git cat-file -s 49154a33814a66fb2fa5489e89a6e7f65bf82aaa
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/routes.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/routes.js
+> git cat-file -s 814187f61a3d898c2db56360834732ae77949429
+> git show :src/App.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/App.js
+> git cat-file -s 49154a33814a66fb2fa5489e89a6e7f65bf82aaa
+> git show :src/routes.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/routes.js
+> git cat-file -s 814187f61a3d898c2db56360834732ae77949429
+> git show :src/components/Dashboard.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/components/Dashboard.js
+> git cat-file -s 7ed56716d062349c563f00e4a1241aeab0bc0332
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jad/projects/material-sense/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jad/projects/material-sense/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/components/Wizard.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/components/Wizard.js
+> git cat-file -s 5c169cbe2553551f781647ef5bba55b4ef098487
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/images/back-arrow.svg
+> git ls-files --stage -- /home/jad/projects/material-sense/src/images/back-arrow.svg
+> git cat-file -s 242dbb04cd84cd225faca4346b67657a5335ae99
+> git show :src/images/shape.svg
+> git ls-files --stage -- /home/jad/projects/material-sense/src/images/shape.svg
+> git cat-file -s 71d203f3deaaadca82a81a3a4b4f0cb9ad284574
+> git show :src/images/logo.svg
+> git ls-files --stage -- /home/jad/projects/material-sense/src/images/logo.svg
+> git cat-file -s 6b60c1042f58d9fabb75485aa3624dddcf633b5c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/Cards.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/components/Cards.js
+> git cat-file -s e0fb3fe2ff96aa24a59f990eb5b25af31c298179

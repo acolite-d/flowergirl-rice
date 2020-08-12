@@ -1,0 +1,21 @@
+2020/07/27-10:39:53.636 862 Reusing MANIFEST /home/jad/.config/chromium/Default/IndexedDB/https_www.react-most-wanted.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/27-10:39:53.636 862 Recovering log #7
+2020/07/27-10:39:53.730 862 Reusing old log /home/jad/.config/chromium/Default/IndexedDB/https_www.react-most-wanted.com_0.indexeddb.leveldb/000007.log 
+2020/07/27-12:31:50.220 37e Level-0 table #12: started
+2020/07/27-12:31:50.305 37e Level-0 table #12: 707930 bytes OK
+2020/07/27-12:31:50.333 37e Delete type=0 #7
+2020/07/27-12:32:26.218 37e Compacting 1@1 + 1@2 files
+2020/07/27-12:32:26.274 37e Generated table #13@1: 172 keys, 6320 bytes
+2020/07/27-12:32:26.274 37e Compacted 1@1 + 1@2 files => 6320 bytes
+2020/07/27-12:32:26.305 37e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/27-12:32:26.305 37e Delete type=2 #9
+2020/07/27-12:32:26.305 37e Delete type=2 #12
+2020/07/27-15:07:13.219 37e Level-0 table #15: started
+2020/07/27-15:07:13.300 37e Level-0 table #15: 690284 bytes OK
+2020/07/27-15:07:13.332 37e Delete type=0 #11
+2020/07/27-15:07:50.218 37e Compacting 1@1 + 1@2 files
+2020/07/27-15:07:50.267 37e Generated table #16@1: 166 keys, 5576 bytes
+2020/07/27-15:07:50.267 37e Compacted 1@1 + 1@2 files => 5576 bytes
+2020/07/27-15:07:50.294 37e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/27-15:07:50.295 37e Delete type=2 #15
+2020/07/27-15:07:50.295 37e Delete type=2 #13

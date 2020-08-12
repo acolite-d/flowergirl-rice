@@ -1,0 +1,27 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[MainWindow]
+Height 1080=968
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA5cAAAOqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=919
+
+[Recent Files]
+File1[$e]=$HOME/docs/edu/Computer Architecture/Advanced Computer Architecture and Parallel Processing.pdf
+File2[$e]=$HOME/docs/edu/Computer Architecture/Computer Organization and Design -The Hardware Software Interface 3rd ed solutions.pdf
+File3[$e]=$HOME/docs/edu/Programming/Java/Java - A Beginner's Guide, 3rd Edition (2005).pdf
+File4[$e]=$HOME/docs/edu/Programming/JavaScript/Wiley - Javascript Bible, 5Th Ed - 2004.pdf
+File5[$e]=$HOME/docs/notes/out.pdf
+File6[$e]=$HOME/docs/edu/Programming/JavaScript/The JavaScript Pocket Guide.pdf
+File7[$e]=$HOME/docs/mit/6-045j-spring-2011/contents/lecture-notes/MIT6_045JS11_lec01.pdf
+Name1[$e]=Advanced Computer Architecture and Parallel Processing.pdf
+Name2[$e]=Computer Organization and Design -The Hardware Software Interface 3rd ed solutions.pdf
+Name3[$e]=Java - A Beginner's Guide, 3rd Edition (2005).pdf
+Name4[$e]=Wiley - Javascript Bible, 5Th Ed - 2004.pdf
+Name5[$e]=out.pdf
+Name6[$e]=The JavaScript Pocket Guide.pdf
+Name7[$e]=MIT6_045JS11_lec01.pdf

@@ -1,0 +1,8 @@
+[2020-08-07 14:19:06.358] [sharedprocess] [info] main {"machineId":"61063534719ca92f78742594b83fa13ee560eede2188705d9924d217cfa391b9","windowId":2}
+[2020-08-07 14:19:08.780] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-08-07 14:19:23.814] [sharedprocess] [info] Downloaded extension: ms-python.python /home/jad/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2020.7.96456
+[2020-08-07 14:19:28.182] [sharedprocess] [info] Extracted extension to /home/jad/.vscode-oss/extensions/.ms-python.python-2020.7.96456: ms-python.python
+[2020-08-07 14:19:28.182] [sharedprocess] [info] Renamed to /home/jad/.vscode-oss/extensions/ms-python.python-2020.7.96456
+[2020-08-07 14:19:28.188] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-08-07 14:19:29.015] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-08-07 14:19:46.396] [sharedprocess] [info] Starting to clean up unused language packs.

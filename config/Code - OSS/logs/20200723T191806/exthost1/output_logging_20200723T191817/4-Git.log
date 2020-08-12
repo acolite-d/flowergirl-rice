@@ -1,0 +1,26 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jad/projects/my-website/dorman-frontend
+> git status -z -u
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :.gitignore
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/.gitignore
+> git cat-file -s 4d29575de80483b005c29bfcac5061cd2f45313e
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git show :src/components/AboutMe.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/AboutMe.jsx
+> git cat-file -s 3aaadf1563cc9f247527d729e2e3e8df85468208

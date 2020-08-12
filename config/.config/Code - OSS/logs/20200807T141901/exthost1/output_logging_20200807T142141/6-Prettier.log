@@ -1,0 +1,92 @@
+["INFO" - 2:21:41 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:21:41 PM] Extension Version: 5.1.3.
+["INFO" - 2:21:41 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 2:21:41 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:41:29 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+["INFO" - 4:41:29 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 4:41:29 PM] Using bundled version of prettier.
+["INFO" - 4:41:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:41:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:41:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx",
+  "parser": "babel"
+}
+["ERROR" - 4:41:29 PM] Error formatting document.
+["ERROR" - 4:41:29 PM] Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (11:3)
+   9 | 
+  10 |   <Route path="/" exact component={Landing} />
+> 11 |   <Route path="/aboutme" exact component={AboutMe} />
+     |   ^
+  12 |   <Route path="/projects" exact component={Projects} />
+  13 |   <Route path="/projects/:id" exact component={Project} />
+  14 | };
+SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (11:3)
+   9 | 
+  10 |   <Route path="/" exact component={Landing} />
+> 11 |   <Route path="/aboutme" exact component={AboutMe} />
+     |   ^
+  12 |   <Route path="/projects" exact component={Projects} />
+  13 |   <Route path="/projects/:id" exact component={Project} />
+  14 | };
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 4:41:29 PM] Formatting completed in 51.948629ms.

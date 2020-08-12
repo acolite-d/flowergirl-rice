@@ -1,0 +1,69 @@
+2020/08/12-09:28:48.918 74c Reusing MANIFEST /home/jad/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/12-09:28:49.249 74c Recovering log #336
+2020/08/12-09:28:49.366 74c Reusing old log /home/jad/.config/chromium/Default/Local Storage/leveldb/000336.log 
+2020/08/12-10:11:37.081 e15 Level-0 table #340: started
+2020/08/12-10:11:37.141 e15 Level-0 table #340: 68250 bytes OK
+2020/08/12-10:11:37.202 e15 Delete type=0 #336
+2020/08/12-10:14:54.550 e15 Level-0 table #342: started
+2020/08/12-10:14:54.605 e15 Level-0 table #342: 60256 bytes OK
+2020/08/12-10:14:54.635 e15 Delete type=0 #339
+2020/08/12-10:14:54.635 e15 Compacting 4@0 + 1@1 files
+2020/08/12-10:14:54.764 e15 Generated table #343@0: 919 keys, 1799472 bytes
+2020/08/12-10:14:54.764 e15 Compacted 4@0 + 1@1 files => 1799472 bytes
+2020/08/12-10:14:54.793 e15 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/12-10:14:54.793 e15 Delete type=2 #340
+2020/08/12-10:14:54.793 e15 Delete type=2 #342
+2020/08/12-10:14:54.793 e15 Delete type=2 #337
+2020/08/12-10:14:54.793 e15 Delete type=2 #333
+2020/08/12-10:14:54.793 e15 Delete type=2 #335
+2020/08/12-10:16:26.206 e15 Level-0 table #345: started
+2020/08/12-10:16:26.235 e15 Level-0 table #345: 60256 bytes OK
+2020/08/12-10:16:26.271 e15 Delete type=0 #341
+2020/08/12-10:34:05.637 e15 Level-0 table #347: started
+2020/08/12-10:34:05.698 e15 Level-0 table #347: 66362 bytes OK
+2020/08/12-10:34:05.734 e15 Delete type=0 #344
+2020/08/12-11:01:34.666 e15 Level-0 table #349: started
+2020/08/12-11:01:34.701 e15 Level-0 table #349: 62581 bytes OK
+2020/08/12-11:01:34.734 e15 Delete type=0 #346
+2020/08/12-11:08:34.666 e15 Level-0 table #351: started
+2020/08/12-11:08:34.708 e15 Level-0 table #351: 61956 bytes OK
+2020/08/12-11:08:34.740 e15 Delete type=0 #348
+2020/08/12-11:08:34.740 e15 Compacting 4@0 + 1@1 files
+2020/08/12-11:08:34.833 e15 Generated table #352@0: 919 keys, 1801026 bytes
+2020/08/12-11:08:34.834 e15 Compacted 4@0 + 1@1 files => 1801026 bytes
+2020/08/12-11:08:34.864 e15 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/12-11:08:34.865 e15 Delete type=2 #349
+2020/08/12-11:08:34.865 e15 Delete type=2 #343
+2020/08/12-11:08:34.865 e15 Delete type=2 #345
+2020/08/12-11:08:34.865 e15 Delete type=2 #347
+2020/08/12-11:08:34.865 e15 Delete type=2 #351
+2020/08/12-11:11:04.671 e15 Level-0 table #354: started
+2020/08/12-11:11:04.709 e15 Level-0 table #354: 61413 bytes OK
+2020/08/12-11:11:04.738 e15 Delete type=0 #350
+2020/08/12-11:16:34.666 e15 Level-0 table #356: started
+2020/08/12-11:16:34.697 e15 Level-0 table #356: 61722 bytes OK
+2020/08/12-11:16:34.725 e15 Delete type=0 #353
+2020/08/12-11:20:34.666 e15 Level-0 table #358: started
+2020/08/12-11:20:34.713 e15 Level-0 table #358: 61572 bytes OK
+2020/08/12-11:20:34.742 e15 Delete type=0 #355
+2020/08/12-11:36:44.018 e15 Level-0 table #360: started
+2020/08/12-11:36:44.071 e15 Level-0 table #360: 61595 bytes OK
+2020/08/12-11:36:44.103 e15 Delete type=0 #357
+2020/08/12-11:36:44.103 e15 Compacting 4@0 + 1@1 files
+2020/08/12-11:36:44.197 e15 Generated table #361@0: 919 keys, 1801028 bytes
+2020/08/12-11:36:44.197 e15 Compacted 4@0 + 1@1 files => 1801028 bytes
+2020/08/12-11:36:44.228 e15 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/12-11:36:44.228 e15 Delete type=2 #356
+2020/08/12-11:36:44.228 e15 Delete type=2 #352
+2020/08/12-11:36:44.228 e15 Delete type=2 #354
+2020/08/12-11:36:44.228 e15 Delete type=2 #360
+2020/08/12-11:36:44.228 e15 Delete type=2 #358
+2020/08/12-13:18:33.527 e15 Level-0 table #363: started
+2020/08/12-13:18:33.565 e15 Level-0 table #363: 69797 bytes OK
+2020/08/12-13:18:33.593 e15 Delete type=0 #359
+2020/08/12-13:26:33.527 e15 Level-0 table #365: started
+2020/08/12-13:26:33.569 e15 Level-0 table #365: 358562 bytes OK
+2020/08/12-13:26:33.603 e15 Delete type=0 #362
+2020/08/12-13:38:33.526 e15 Level-0 table #367: started
+2020/08/12-13:38:33.563 e15 Level-0 table #367: 61793 bytes OK
+2020/08/12-13:38:33.597 e15 Delete type=0 #364

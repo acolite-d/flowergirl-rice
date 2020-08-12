@@ -1,0 +1,28 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jad/projects/material-sense
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jad/projects/material-sense/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/Cards.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/components/Cards.js
+> git cat-file -s e0fb3fe2ff96aa24a59f990eb5b25af31c298179
+> git check-ignore -v -z --stdin
+> git show --textconv :src/routes.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/routes.js
+> git cat-file -s 814187f61a3d898c2db56360834732ae77949429
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/index.js
+> git cat-file -s 0c5e75da1cd0651f3c34f0d51aaa6abac634f4f2
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/jad/projects/material-sense/src/App.js
+> git cat-file -s 49154a33814a66fb2fa5489e89a6e7f65bf82aaa

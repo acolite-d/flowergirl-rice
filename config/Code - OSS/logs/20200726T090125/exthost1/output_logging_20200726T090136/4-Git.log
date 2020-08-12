@@ -1,0 +1,268 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jad/projects/my-website/dorman-frontend
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show :src/components/AboutMe.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/AboutMe.jsx
+> git cat-file -s 3aaadf1563cc9f247527d729e2e3e8df85468208
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git show :src/index.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/index.jsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.css
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/config/routes.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/App.jsx
+> git cat-file -s 42578781960186ebf3d08566ce15047d8ea0e505
+> git show :src/components/Landing.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/Landing.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/components/NavBar.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/NavBar.jsx
+> git cat-file -s db826df0965e240059e9326331469efb2888bf70
+> git show :src/components/Landing.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/Landing.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/components/NavBar.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/NavBar.jsx
+> git cat-file -s db826df0965e240059e9326331469efb2888bf70
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/components/Landing.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/Landing.jsx
+> git show :src/containers/ProjectCardList.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/containers/ProjectCardList.jsx
+> git show :src/components/Landing.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/Landing.jsx
+> git show :src/components/ProjectInfo.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/ProjectInfo.jsx
+> git cat-file -s e563f434416885168a4bdbf26ee6287697e7cadb
+> git show :src/components/Landing.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/components/Landing.jsx
+> git show :src/config/routes.jsx
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+> git cat-file -s 1179e2ab7d05aebd46f8b2b3a241164da806f743
+> git show :src/config/routes.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+> git cat-file -s 1179e2ab7d05aebd46f8b2b3a241164da806f743
+> git show :src/config/routes.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+> git cat-file -s 1179e2ab7d05aebd46f8b2b3a241164da806f743
+> git show :src/config/routes.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

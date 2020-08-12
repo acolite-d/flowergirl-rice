@@ -1,0 +1,75 @@
+{
+   "checksum": "1ba979c09777c188f7d38833458d6a2d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13237749678974220",
+            "guid": "072d4fc7-714a-4a04-89bf-be584703d886",
+            "id": "6",
+            "name": "Chrome Web Store - Extensions",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/category/extensions"
+         }, {
+            "date_added": "13237747601323462",
+            "guid": "8c9799f2-086b-4c5c-aeee-7172a2ded00c",
+            "id": "5",
+            "name": "Add Extension",
+            "type": "url",
+            "url": "javascript:location.href='https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx3&prodversion='+(navigator.appVersion.match(/Chrome\\/(\\S+)/)[1])+'&x=id%'+'3D'+(document.querySelector('a[href^=\"https://chrome.google.com/webstore/report/\"]').pathname.match(/[^\\/]+\\/*$/)[0])+'%'+'26installsource%'+'3Dondemand%'+'26uc';"
+         }, {
+            "date_added": "13238350833744856",
+            "guid": "dec286c9-3be3-4d95-a26c-af8f4c2f3657",
+            "id": "8",
+            "name": "GitHub - daumann/ECMAScript-new-features-list: A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019",
+            "type": "url",
+            "url": "https://github.com/daumann/ECMAScript-new-features-list"
+         }, {
+            "date_added": "13238714633827308",
+            "guid": "ab0659a7-5a71-48ea-9abf-0eddf4576dc3",
+            "id": "10",
+            "name": "HireRight Applicant Center",
+            "type": "url",
+            "url": "https://ows01.hireright.com/applicant_center2/18.do;jsessionid=F0226AA70CE61F1A333C50B60BE95FBE?event=ac2_status_page&resetCache=true&formJustFinished=true"
+         }, {
+            "date_added": "13240878907797387",
+            "guid": "7569f210-4def-4e91-86ef-746fb97ded13",
+            "id": "12",
+            "name": "MIT OpenCourseWare | Free Online Course Materials",
+            "type": "url",
+            "url": "https://ocw.mit.edu/index.htm"
+         }, {
+            "date_added": "13240878934221216",
+            "guid": "0df8ec1f-9513-4604-b2bf-dcf089c217b9",
+            "id": "13",
+            "name": "About - Project Euler",
+            "type": "url",
+            "url": "https://projecteuler.net/"
+         } ],
+         "date_added": "13237744879655220",
+         "date_modified": "13240878934221216",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13237744879655229",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13237744879655230",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

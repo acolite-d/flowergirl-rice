@@ -1,0 +1,456 @@
+["INFO" - 10:28:29 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:28:29 AM] Extension Version: 5.1.3.
+["INFO" - 10:28:29 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:28:29 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:38:43 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/AboutMe.jsx
+["INFO" - 1:38:43 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:38:43 PM] Using bundled version of prettier.
+["INFO" - 1:38:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:38:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:38:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/AboutMe.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:38:43 PM] Error formatting document.
+["ERROR" - 1:38:43 PM] Unexpected token (4:13)
+  2 | 
+  3 | const AboutMe = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default AboutMe;
+SyntaxError: Unexpected token (4:13)
+  2 | 
+  3 | const AboutMe = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default AboutMe;
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:38:43 PM] Formatting completed in 69.536773ms.
+["INFO" - 1:39:01 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx
+["INFO" - 1:39:01 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:39:01 PM] Using bundled version of prettier.
+["INFO" - 1:39:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:39:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:39:01 PM] Error formatting document.
+["ERROR" - 1:39:01 PM] Unexpected token (4:13)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default NavBar;
+SyntaxError: Unexpected token (4:13)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default NavBar;
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:39:01 PM] Formatting completed in 20.773119ms.
+["INFO" - 1:39:07 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx
+["INFO" - 1:39:07 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:39:07 PM] Using bundled version of prettier.
+["INFO" - 1:39:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:39:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:39:07 PM] Error formatting document.
+["ERROR" - 1:39:07 PM] Unexpected token (4:13)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default Landing;
+SyntaxError: Unexpected token (4:13)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return ();
+    |             ^
+  5 | };
+  6 | 
+  7 | export default Landing;
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:39:07 PM] Formatting completed in 17.392826ms.
+["INFO" - 1:39:31 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx
+["INFO" - 1:39:31 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:39:31 PM] Using bundled version of prettier.
+["INFO" - 1:39:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:39:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:39:31 PM] Error formatting document.
+["ERROR" - 1:39:31 PM] Unterminated JSX contents (4:20)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return <h1><h1>;
+    |                    ^
+  5 | };
+  6 | 
+  7 | export default Landing;
+SyntaxError: Unterminated JSX contents (4:20)
+  2 | 
+  3 | const Landing = () => {
+> 4 |     return <h1><h1>;
+    |                    ^
+  5 | };
+  6 | 
+  7 | export default Landing;
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:39:31 PM] Formatting completed in 26.619134ms.
+["INFO" - 1:39:40 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx
+["INFO" - 1:39:40 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:39:40 PM] Using bundled version of prettier.
+["INFO" - 1:39:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:39:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Landing.jsx",
+  "parser": "babel"
+}
+["INFO" - 1:39:40 PM] Formatting completed in 25.102713ms.
+["INFO" - 1:45:40 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Projects.jsx
+["INFO" - 1:45:40 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:45:40 PM] Using bundled version of prettier.
+["INFO" - 1:45:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:45:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:45:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Projects.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:45:40 PM] Error formatting document.
+["ERROR" - 1:45:40 PM] Unexpected token, expected "{" (4:18)
+  2 | 
+  3 | class Projects extends Component {
+> 4 |     constructor();
+    |                  ^
+  5 | 
+  6 |     render(
+  7 |         return "":
+SyntaxError: Unexpected token, expected "{" (4:18)
+  2 | 
+  3 | class Projects extends Component {
+> 4 |     constructor();
+    |                  ^
+  5 | 
+  6 |     render(
+  7 |         return "":
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:45:40 PM] Formatting completed in 22.077088ms.
+["INFO" - 1:46:22 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/pages/Project.jsx
+["INFO" - 1:46:22 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 1:46:22 PM] Using bundled version of prettier.
+["INFO" - 1:46:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:46:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:46:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/pages/Project.jsx",
+  "parser": "babel"
+}
+["ERROR" - 1:46:22 PM] Error formatting document.
+["ERROR" - 1:46:22 PM] Unexpected token, expected "{" (4:18)
+  2 | 
+  3 | class Project extends Component {
+> 4 |     constructor();
+    |                  ^
+  5 | 
+  6 |     render(
+  7 |         return "":
+SyntaxError: Unexpected token, expected "{" (4:18)
+  2 | 
+  3 | class Project extends Component {
+> 4 |     constructor();
+    |                  ^
+  5 | 
+  6 |     render(
+  7 |         return "":
+	at e (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/jad/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 1:46:22 PM] Formatting completed in 21.285723ms.
+["INFO" - 3:17:03 PM] Formatting /home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx
+["INFO" - 3:17:03 PM] Using ignore file (if present) at /home/jad/projects/my-website/dorman-frontend/.prettierignore
+["INFO" - 3:17:03 PM] Using bundled version of prettier.
+["INFO" - 3:17:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:17:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:17:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/jad/projects/my-website/dorman-frontend/src/config/routes.jsx",
+  "parser": "babel"
+}
+["INFO" - 3:17:04 PM] Formatting completed in 28.977511ms.
